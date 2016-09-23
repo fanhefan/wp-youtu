@@ -1,5 +1,5 @@
 ###Description
-万象优图 CI WordPress插件,支持WordPress 4.6,php 7.0
+万象优图 CI WordPress插件,支持WordPress 4.6,php7.0
 WordPress文章中,多媒体中上传图片,插件自动同步到第三方腾讯万象优图里面。
 用户访问时加载腾讯万象优图服务器上图片，有效提高WordPress站点访问速度，减轻服务器压力。
 
