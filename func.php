@@ -19,7 +19,9 @@ function youtu_upload($fileid, $filepath) {
 	$url = 'http://web.image.myqcloud.com/photos/v2/' . YOUTU_APPID . '/' . YOUTU_BUCKET . '/0/' . $fileid;
 	$sign = youtu_appSign($fileid);
 	
-	$data['FileContent'] = '@'.$filepath;
+	//$data['FileContent'] = '@'.$filepath;  // <=PHP 5.5 才支持
+	$data['FileContent'] = file_get_contents($filepath);
+
 	$data['Md5'] = md5_file($filepath);
 	$args = array(
 		'url' => $url,
