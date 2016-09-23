@@ -7,6 +7,10 @@ PS:
 1. 建议配合WordPress插件懒加载插件 -- a3 Lazy Load插件  
 2. 万象优图存储空间50GB以内免费,流量50GB以内免费,自购自己的博客用了
 
+###效果  
+![alt text](http://img.funboxpower.com/other-1474599524)
+![alt text](http://img.funboxpower.com/other-1474599516)
+
 ###Installation
 1. 下载插件
 2. 上传到/wp-contents/plugins/目录
