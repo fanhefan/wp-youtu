@@ -8,8 +8,8 @@ PS:
 2. 万象优图存储空间50GB以内免费,流量50GB以内免费,自购自己的博客用了
 
 ###效果  
-![alt text](http://img.funboxpower.com/other-1474599524)
-![alt text](http://img.funboxpower.com/other-1474599516)
+![alt text](http://img.funboxpower.com/other-1474599524?imageView2/0/w/800/h/800 "Title")
+![alt text](http://img.funboxpower.com/other-1474599516?imageView2/0/w/800/h/800 "Title")
 
 ###Installation
 1. 下载插件
