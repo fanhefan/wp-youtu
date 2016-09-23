@@ -1,4 +1,8 @@
 <?php
+if ( ! defined( 'ABSPATH' ) ) {
+	return;
+}
+
 $youtu_setting = get_option('youtu_setting');
 $youtu_setting = unserialize($youtu_setting);
 if(!empty($youtu_setting)) {
