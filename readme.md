@@ -5,7 +5,7 @@ WordPress文章中,多媒体中上传图片,插件自动同步到第三方腾讯
 
 PS:  
 1. 建议配合WordPress插件懒加载插件 -- a3 Lazy Load插件  
-2. 万象优图存储空间50GB以内免费,流量50GB以内免费,自购自己的博客用了
+2. 万象优图存储空间50GB以内免费,流量50GB以内免费,够自己的博客用了
 
 ###效果  
 ![alt text](http://img.funboxpower.com/other-1474599524?imageView2/0/w/800/h/800 "Title")
