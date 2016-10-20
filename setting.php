@@ -70,7 +70,7 @@ function wp_youtu_control() {
 						<th scope="row"><label for="domain">绑定的域名</label></th>
 						<td>
 							<input size="35" type="text" id="domain" name="domain" value="<?php echo $setting['domain']; ?>" />
-							<p class="description">例如：pic.yercms.com，不要输入http://</p>
+							<p class="description">例如：http://pic.yercms.com</p>
 						</td>
 					</tr>
 					<tr>

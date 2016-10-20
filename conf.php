@@ -13,7 +13,7 @@ if(!empty($youtu_setting)) {
 	$domain = $youtu_setting['domain'];
 	if(empty($domain)) 
 		$domain = $bucket . '-' . $appid . '.image.myqcloud.com';
-	$baseurl = 'http://' . $domain . '/';
+	$baseurl = $domain . '/';
 }
 //万象优图Secret Id
 define('YOUTU_SECRETID', $secretid);
